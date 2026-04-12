@@ -21,7 +21,7 @@ I thrive at the intersection of data science and software engineering — from d
 - 🔭 Currently working on AI-powered applications and data pipelines
 - 🌱 Continuously exploring advancements in deep learning and distributed systems
 - 🤝 Open to collaborating on impactful open-source projects
-- 📍 Based in Batam, Riau, Indonesia
+- 📍 Based in Tanjungpinang, Kepulauan Riau, Indonesia
 
 ---
 
