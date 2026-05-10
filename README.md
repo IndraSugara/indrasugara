@@ -64,11 +64,15 @@ I thrive at the intersection of data science and software engineering — from d
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IndraSugara&show_icons=true&theme=default&hide_border=true&title_color=0d1117&text_color=444&icon_color=0d1117)
+<img src="https://github-readme-stats.vercel.app/api?username=IndraSugara&show_icons=true&theme=default&hide_border=true&title_color=0d1117&text_color=444&icon_color=0d1117&cache_seconds=1800&rank_icon=github" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IndraSugara&layout=compact&theme=default&hide_border=true&title_color=0d1117&text_color=444)
+<br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IndraSugara&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndraSugara&layout=compact&theme=default&hide_border=true&title_color=0d1117&text_color=444&cache_seconds=1800&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=IndraSugara&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
