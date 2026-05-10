@@ -18,10 +18,10 @@ I am a passionate software engineer with expertise spanning **Full Stack Develop
 
 I thrive at the intersection of data science and software engineering — from designing robust backend architectures to training ML models and ensuring reliable network infrastructure.
 
-- 🔭 Currently working on AI-powered applications and data pipelines
-- 🌱 Continuously exploring advancements in deep learning and distributed systems
-- 🤝 Open to collaborating on impactful open-source projects
-- 📍 Based in Tanjungpinang, Kepulauan Riau, Indonesia
+- Currently working on AI-powered applications and data pipelines
+- Continuously exploring advancements in deep learning and distributed systems
+- Open to collaborating on impactful open-source projects
+- Based in Tanjungpinang, Kepulauan Riau, Indonesia
 
 ---
 
