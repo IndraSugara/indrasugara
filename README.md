@@ -5,7 +5,7 @@
 **Full Stack Developer · AI/ML Engineer · Network Enthusiast**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=IndraSugara&color=0d1117&style=flat-square&label=Profile+Views)](https://github.com/IndraSugara)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/indrasugara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/indra-sugara-7a0a4128b/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:sughara78@email.com)
 
 </div>
@@ -81,7 +81,7 @@ I am always open to discussing new ideas, collaboration opportunities, or simply
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/indrasugara)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/indra-sugara-7a0a4128b/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IndraSugara)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:indrasugara@email.com)
 
